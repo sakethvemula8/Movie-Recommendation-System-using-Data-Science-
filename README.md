@@ -1,5 +1,4 @@
 # Movie-Recommendation-System-using-Data-Science-
-# Movie Recommendation System
 
 ## 📌 Overview
 The **Movie Recommendation System** is built using **machine learning techniques** to suggest movies based on user preferences and past interactions. The project is implemented in **Jupyter Notebook** and leverages **data science and AI algorithms** to provide accurate recommendations.
